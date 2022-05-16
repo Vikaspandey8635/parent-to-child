@@ -1,0 +1,10 @@
+h1{
+    color: red;
+    text-align: center;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 6px 0;
+    display: inline-block;
+    border: 2px solid rgb(47, 172, 255);
+    border-radius: 6px;
+}
